@@ -1,0 +1,3 @@
+[submodule "text-hugifier"]
+	path = text-hugifier
+	url = git@github.com:simeonjmcg/text-hugifier.git
