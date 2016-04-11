@@ -1,3 +1,6 @@
 [submodule "text-hugifier"]
 	path = text-hugifier
 	url = https://github.com/simeonjmcg/text-hugifier.git
+[submodule "molmass-calc"]
+	path = molmass-calc
+	url = https://github.com/simeonjmcg/molmass-calc.git
