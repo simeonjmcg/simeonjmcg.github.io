@@ -4,3 +4,6 @@
 [submodule "molmass-calc"]
 	path = molmass-calc
 	url = https://github.com/simeonjmcg/molmass-calc.git
+[submodule "radical-simplify"]
+	path = radical-simplify
+	url = https://github.com/simeonjmcg/radical-simplify.git
