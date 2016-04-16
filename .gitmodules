@@ -7,3 +7,6 @@
 [submodule "radical-simplify"]
 	path = radical-simplify
 	url = https://github.com/simeonjmcg/radical-simplify.git
+[submodule "text-art"]
+	path = text-art
+	url = https://github.com/simeonjmcg/text-art.git
